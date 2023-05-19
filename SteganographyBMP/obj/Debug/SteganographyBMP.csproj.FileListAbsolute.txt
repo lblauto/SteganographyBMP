@@ -1,0 +1,17 @@
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\bin\Debug\SteganographyBMP.exe
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\bin\Debug\SteganographyBMP.pdb
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.Form1.resources
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.Properties.Resources.resources
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.exe
+C:\Documents and Settings\Nguyen Hong Hai\My Documents\Visual Studio 2008\Projects\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.pdb
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\bin\Debug\SteganographyBMP.exe
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\bin\Debug\SteganographyBMP.pdb
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.csproj.AssemblyReference.cache
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.Form1.resources
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.Properties.Resources.resources
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.csproj.GenerateResource.cache
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.csproj.CoreCompileInputs.cache
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.exe
+C:\Users\LeThanhChuc\Documents\moiws\Bao Mat Mang\codefly.vn-1780131527\project\SteganographyBMP\SteganographyBMP\obj\Debug\SteganographyBMP.pdb
